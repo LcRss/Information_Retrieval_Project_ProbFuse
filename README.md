@@ -1,5 +1,18 @@
 # README #
 
+### INFO ###
+
+This code was implemented during an Information Retrieval course by:
+
+Luca Rossi;
+Davide Storato;
+Roberto Tarantini;
+Andrea Ziggiotto.
+
+PDF Report: https://drive.google.com/file/d/1595CxbW8jsgRC4e0pkH-A2aSmLCLxNJH/view?usp=sharing
+
+Slide: https://drive.google.com/file/d/1UDXI_J3Wu64rMMPQDPS22IC6L0FiGJUo/view?usp=sharing
+
 ### COMB METHODS ###
 
 The class ComputeRankFusion is used to execute the base methods, the parameters PathInput and PathOutput must be set in this way:  
